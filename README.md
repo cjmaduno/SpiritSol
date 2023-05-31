@@ -1,6 +1,6 @@
 # SpiritSol: AlterCall Full Stack Project
 
-This is a webapp that generates AI suggestions for incorporating spirituality in your business and web phrases for related charities/organizations. 
+This is a web app that generates AI suggestions for incorporating spirituality in your business and web phrases for related charities/organizations. 
 
 Link: https://spirit-sol.vercel.app/
 
