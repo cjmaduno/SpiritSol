@@ -6,6 +6,7 @@ relevant charities.
 Link: https://spirit-sol.vercel.app/
 
 Architecture: 
+![SS-Architecture](https://github.com/cjmaduno/SpiritSol/assets/40917956/6e04bf07-36c1-413e-a52e-2877e61fc1ad)
 
 
 ## Tech Stack
