@@ -13,16 +13,16 @@ Link: https://spirit-sol.vercel.app/
 | --------- | ------------------------------------------------------------ |
 | Language  | Python                            |
 | Framework | FastAPI                     |
-| Hosting   | [AWS](https://aws.amazon.com/) (Lambda + API Gateway)        |
-| Other     | [OpenAI](https://openai.com/), [AWS CDK](https://aws.amazon.com/cdk/), [Docker](https://www.docker.com/) |
+| Hosting   | AWS (Lambda + API Gateway)        |
+| Other     | OpenAI, AWS CDK, Docker |
 
 #### Frontend Stack
 
 | Type      | Tech                                                         |
 | --------- | ------------------------------------------------------------ |
-| Language  | [Typescript](https://www.typescriptlang.org/)                |
-| Framework | [NextJS](https://nextjs.org/) / [React](https://reactjs.org/) |
-| Styling   | [TailwindCSS](https://tailwindcss.com/)                      |
-| Hosting   | [Vercel](https://vercel.com)                                 |
+| Language  | Typescript               |
+| Framework | NextJS / React |
+| Styling   | TailwindCSS                      |
+| Hosting   | Vercel                                 |
 
 ## 
