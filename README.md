@@ -11,7 +11,7 @@ Link: https://spirit-sol.vercel.app/
 
 | Type      | Tech                                                         |
 | --------- | ------------------------------------------------------------ |
-| Language  | [Python](https://www.python.org/)                            |
+| Language  | [Python]                            |
 | Framework | [FastAPI](https://fastapi.tiangolo.com/)                     |
 | Hosting   | [AWS](https://aws.amazon.com/) (Lambda + API Gateway)        |
 | Other     | [OpenAI](https://openai.com/), [AWS CDK](https://aws.amazon.com/cdk/), [Docker](https://www.docker.com/) |
