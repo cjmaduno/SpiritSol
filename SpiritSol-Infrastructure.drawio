@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T18:50:40.339Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.6" etag="NUwSMmIvmtv3FyKM67uC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T19:09:40.528Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="F2gnZrjoj55j2X8uBSdK" version="21.3.6" type="github">
   <diagram name="Page-1" id="3jI6bOgOFkhMkYbX6GTZ">
-    <mxGraphModel>
+    <mxGraphModel dx="417" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-1" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-6" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-14" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cell_phone.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="12.6" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-16" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="40.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-19" value="Frontend- via Vercel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="55" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-20" value="NextJS / React" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wdzr_haYv_4IAlFL9zOX-19">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-21" value="TailwindCSS" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wdzr_haYv_4IAlFL9zOX-19">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-23" value="Backend- via AWS lambda function + API Gateway" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="300" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-24" value="SpiritSol" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wdzr_haYv_4IAlFL9zOX-23">
+          <mxGeometry y="30" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-25" value="FastAPI" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wdzr_haYv_4IAlFL9zOX-23">
+          <mxGeometry y="60" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-26" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="180" y="315" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wdzr_haYv_4IAlFL9zOX-27" value="OpenAI API&amp;nbsp;&lt;br&gt;(GPT-3)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="46" y="305" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
