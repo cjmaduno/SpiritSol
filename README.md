@@ -7,6 +7,7 @@ Link: https://spirit-sol.vercel.app/
 
 Architecture: 
 
+
 ## Tech Stack
 
 #### Backend Stack
