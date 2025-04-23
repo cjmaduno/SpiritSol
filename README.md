@@ -1,6 +1,8 @@
-# SpiritSol: AlterCall Full Stack Project
+# Spiritual Solutions (SpiritSol): AlterCall Technical Assessment / Full Stack Project (June 2023)
 
-This is a web app that generates AI suggestions for incorporating spirituality in your business and web phrases for related charities/organizations. 
+This is a web app that generates AI suggestions for incorporating spirituality in your business as well as a list of related charities/organizations to contribute to. 
+
+The idea for this project originated from AlterCall's business focus at the time--Spiritual Entrepreneurship.
 
 Link: https://spirit-sol.vercel.app/
 
